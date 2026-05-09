@@ -1,0 +1,2 @@
+run_id,episodes,average_reward,average_waiting_time,learning_rate,epsilon_initial,epsilon_final,exploration_fraction
+policy_v2_explored,50000,112.7,9.4,0.0005,1.0,0.01,0.3
