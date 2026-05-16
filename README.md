@@ -276,3 +276,6 @@ This project demonstrates how machine learning, reinforcement learning, and grap
 # Author
 
 Aditya KS
+David Joseph
+Aryan K A
+Anshul Rai
