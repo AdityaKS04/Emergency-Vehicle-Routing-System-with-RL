@@ -237,41 +237,6 @@ torch
 
 ---
 
-# Abstract
-
-This project presents an AI-based Emergency Vehicle Routing System that helps ambulances reach patients faster in urban traffic. Machine learning predicts how far traffic should be cleared, A* routing computes the shortest path, and reinforcement learning selects the best traffic signal to prioritize. The system is deployed as an interactive Streamlit application and incorporates MLOps practices such as experiment tracking, version control, reproducibility, and Docker support.
-
----
-
-# Problem Statement
-
-Emergency vehicles are often delayed by traffic congestion, red signals, and road incidents. Traditional navigation systems do not dynamically predict clearance requirements or control signals. This project addresses this challenge by predicting traffic clearance distance, rerouting around blocked roads, and using reinforcement learning to choose the optimal signal to create a green corridor.
-
----
-
-# Tools Used
-
-- Python
-- Pandas and NumPy
-- Scikit-learn
-- XGBoost
-- Optuna
-- Stable-Baselines3
-- Gymnasium
-- PyTorch
-- NetworkX
-- Streamlit
-- Plotly
-- Git and GitHub
-- Docker
-
----
-
-# Conclusion
-
-This project demonstrates how machine learning, reinforcement learning, and graph algorithms can be integrated to optimize emergency vehicle routing. It reduces response time by predicting traffic clearance distance, dynamically rerouting around incidents, and selecting the best traffic signal. MLOps features ensure the project is reproducible, versioned, and deployment-ready.
-
----
 
 # Author
 
